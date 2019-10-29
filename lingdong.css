@@ -1,0 +1,10 @@
+p{
+  color:maroon;
+}
+h1,h2{
+  color: gray;
+  border-bottom: 1px solid black;
+}
+body{
+  font-family: sans-serif;
+}
